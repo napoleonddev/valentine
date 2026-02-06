@@ -144,7 +144,7 @@ export default function Home() {
                 );
 
                 if (response.ok) {
-                  alert("Yayyy! You are now taken!❤️");
+                  alert("Yayyy! You are now taken!🤣🤣");
                   e.target.reset(); // optional: reset form fields
                 } else {
                   alert("Oops! Something went wrong.");
