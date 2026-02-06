@@ -122,7 +122,7 @@ export default function Home() {
             />
           </Box>
           <Box position="absolute" top="50%" textAlign={"center"}>
-            <Text fontSize={"2xl"} fontWeight={600}>
+            <Text fontSize={"2xl"} fontWeight={600} color='#000'>
               Edrina, will you be my valentine?
             </Text>
           </Box>
